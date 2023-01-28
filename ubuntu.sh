@@ -4,7 +4,7 @@ ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #Database Details
 dbhost='185.61.137.174';
 dbuser='jazzvpnt_2023';
-dbpass='jazzvpnt_2023';
+dbpass='jazzvpnt_pass';
 dbname='jazzvpnt_2023';
 dbport='3306';
 dbport='3306';
